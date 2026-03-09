@@ -1,7 +1,12 @@
 # Spotify-Thing
 A small device to view, pause, skip, and shuffle spotify tracks
 
-SETUP:
+HARDWARE SETUP:
+This project is designed around 2 key components, the [SeeedStudio Xiao ESP32S3](https://www.seeedstudio.com/XIAO-ESP32S3-p-5627.html) and the [Waveshare 2inch LCD Display Module](https://www.waveshare.com/2inch-lcd-module.htm)
+
+Wiring Diagram in process
+
+CODE SETUP:
 
 You will need to setup spotify for developers on the spotify account you intend to use.
 
