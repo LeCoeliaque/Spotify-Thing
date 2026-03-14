@@ -1,10 +1,12 @@
 # Spotify-Thing
 A small device to view, pause, skip, and shuffle spotify tracks
 
+As someone who listens to music nearly constantly, I hope that this device will be a cool novelty item to sit on my desk or nightstand for easy control without messing with my phone.
+
 HARDWARE SETUP:
 This project is designed around 2 key components, the [SeeedStudio Xiao ESP32S3](https://www.seeedstudio.com/XIAO-ESP32S3-p-5627.html) and the [Waveshare 2inch LCD Display Module](https://www.waveshare.com/2inch-lcd-module.htm)
 
-Wiring Diagram in process
+The Xiao has only 1 GND pin so you may need to solder some wires together. 
 
 CODE SETUP:
 
@@ -19,3 +21,5 @@ You will need to setup spotify for developers on the spotify account you intend 
 4: Fill in your WiFi credentials into Secrets.h
 
 5: Enjoy! 
+
+
