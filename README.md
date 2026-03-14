@@ -3,6 +3,8 @@ A small device to view, pause, skip, and shuffle spotify tracks
 
 As someone who listens to music nearly constantly, I hope that this device will be a cool novelty item to sit on my desk or nightstand for easy control without messing with my phone.
 
+# AI Disclosure
+I am unfamiliar with the parallel computing and Display functions so I used Claude.ai to help move the spotify polling to a separate core and to create UI navigation + Playlist discovery.
 
 
 # Hardware Setup
@@ -13,7 +15,7 @@ This project is designed around 2 key components, the [SeeedStudio Xiao ESP32S3]
 
 The Xiao has only 1 GND pin so you may need to solder some wires together. 
 
-Wiring Diagram Here
+![](https://github.com/LeCoeliaque/Spotify-Thing/blob/74a5ed9a693c54ff035f4d077bb6659d8cc3e94c/Schematic.png)
 
 # Code Setup
 
@@ -32,4 +34,9 @@ You will need to setup spotify for developers on the spotify account you intend 
 
 # Photos
 Here are a few photos from the development process
+
+![]()
+
+
+
 
