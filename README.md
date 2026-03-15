@@ -15,7 +15,7 @@ This project is designed around 2 key components, the [SeeedStudio Xiao ESP32S3]
 
 The Xiao has only 1 GND pin so you may need to solder some wires together. 
 
-![](https://github.com/LeCoeliaque/Spotify-Thing/blob/74a5ed9a693c54ff035f4d077bb6659d8cc3e94c/Schematic.png)
+<img src="https://github.com/LeCoeliaque/Spotify-Thing/blob/74a5ed9a693c54ff035f4d077bb6659d8cc3e94c/Schematic.png" alt="Alt Text" style="width:50%; height:auto;">
 
 # Code Setup
 
@@ -33,10 +33,9 @@ You will need to setup spotify for developers on the spotify account you intend 
 
 
 # Photos
-Here are a few photos from the development process
+Here is a render of the final design 
 
-![]()
-
+<img src="https://github.com/LeCoeliaque/Spotify-Thing/blob/7a402e4643ef5866424cd6433639c6ce8aba2706/SpotifyThingRender.png" alt="Alt Text" style="width:50%; height:auto;">
 
 
 
